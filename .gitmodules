@@ -4,3 +4,6 @@
 [submodule "lib/contract-deployment-infra"]
 	path = lib/contract-deployment-infra
 	url = https://github.com/thirdweb-dev/contract-deployment-infra
+[submodule "lib/modular-contracts"]
+	path = lib/modular-contracts
+	url = https://github.com/thirdweb-dev/modular-contracts
