@@ -1,0 +1,3 @@
+contract-deployment-infra/=lib/contract-deployment-infra/src/
+forge-std/=lib/forge-std/src/
+solady/=lib/contract-deployment-infra/lib/solady/src/
